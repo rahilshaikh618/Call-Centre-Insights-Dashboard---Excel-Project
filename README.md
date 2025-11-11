@@ -83,5 +83,6 @@ Special thanks to **Indian Data Club (IDC)** and **DPDzero** for encouraging con
 
 ✨ *Turning call data into customer satisfaction insights through the power of Excel.*
 ---
-## 🔗 Check out my Linkdin Profile:
-[Linkdin: Mohammad Rahil](www.linkedin.com/in/mohammadrahil142)
+## 🔗 Check out my LinkedIn Profile:
+[LinkedIn: Mohammad Rahil](https://www.linkedin.com/in/mohammadrahil142)
+
